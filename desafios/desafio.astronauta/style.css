@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+#astronauta{
+    width:60%; position:absolute;top:250px;left:400px;
+}
+body{
+    background-color: rgb(18, 18, 49);
+}
+h1{background-color: rgb(106, 146, 133);
+color: rgb(15, 15, 51);}
